@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # rice_yield_ai
 
 A new Flutter project.
